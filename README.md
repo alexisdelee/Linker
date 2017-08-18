@@ -13,12 +13,12 @@ ou sur windows, exécuter le fichier `linker.exe`.
 Il ne restera plus qu'à remplir les différents champs :  
 
 ```
-Folder where the project is located __example/__
-Name of the project __linker__
+Folder where the project is located example/
+Name of the project linker
 Type of file(s)
 (*) C/C++ header
 (*) C/C++ source
-Name of file(s) __smalloc__
+Name of file(s) smalloc
 ```
 
 Ouvrir ensuite `example/linker.cbp` et les fichiers auront bien été ajoutés au projet.
